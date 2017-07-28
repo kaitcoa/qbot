@@ -78,7 +78,7 @@ bot.dialog('/', function (session) {
 
     if(session.message.text.toLowerCase() == 'wifi'
         || session.message.text.toLowerCase().contains('wifi')){
-        session.send("*SSID:* Quantox (Quantox1)\n\n*PASS:* 14cd918ac");
+        session.send("*SSID:* Quantox (Quantox1)\n\n*PASS:* 17qt918ac");
     }
 
 
